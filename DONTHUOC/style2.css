@@ -1,0 +1,38 @@
+body {
+  
+  font-family: 'Arial', sans-serif;
+  background-image: url('https://medlatec.vn/media/23993/file/thuoc-tri-viem-hong-2.png'); /* Đường dẫn đến ảnh nền */
+  background-size: cover;
+  background-attachment:fixed ;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #fff; /* Màu chữ trắng để phù hợp với ảnh nền */
+  text-align: center;
+  padding: 20px 0;
+  background-color: #4CAF50;
+  margin: 0;
+}
+
+.buttons {
+  text-align: center;
+  margin: 20px;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #3498db;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #2980b9;
+}

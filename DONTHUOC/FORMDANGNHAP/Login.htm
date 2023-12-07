@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./Login.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Smooch Sans:wght@700&display=swap"
+    />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+  </head>
+  <body>
+    <div class="login">
+      <img class="image-1-icon" alt="" src="https://img4.thuthuatphanmem.vn/uploads/2021/01/10/hinh-anh-bac-si-dang-ghi-chep-benh-an-voi-chiec-ao-trang-rat_blAOf_021526552.jpg" />
+
+      <div class="anphuc-parent">
+        <b class="anphuc">ANPHUC</b>
+        <b class="login1">LOGIN</b>
+      </div>
+      <div class="login-with-others-parent">
+        <!-- <div class="login-with-others-container">
+          <b>Login</b>
+          <span> with Others</span>
+        </div> -->
+      
+      </div>
+      <div class="rectangle-parent2">
+        <form action="/DONTHUOC/FORMDANGNHAP/dangnhap.php" method="post">
+       
+        <div class="input-container">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+                <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/>
+              </svg>
+            <input type="text" id="username" name="username" placeholder="Fullname" style="text-align: center;">
+          </div>
+          <div class="input-container">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lock-fill" viewBox="0 0 16 16">
+                <path d="M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2m3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2"/>
+              </svg>
+        <input type="password" id="password" name="password" placeholder="Password" id="passwordField" style="text-align: center;"s>
+       
+    </div>
+    <button type="button" class="btn btn-light show-password-btn" onclick="togglePassword()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-eye" viewBox="0 0 16 16">
+                <path d="M1.277 7.277a13.42 13.42 0 0 0 0 1.446C2.83 9.57 4.716 11 8 11s5.17-1.43 6.723-2.277a13.42 13.42 0 0 0 0-1.446C13.17 6.43 11.284 5 8 5s-5.17 1.43-6.723 2.277zM8 3C4.358 3 1.108 4.915 0 7.23 1.108 9.546 4.358 11.46 8 11.46s6.892-1.914 8-3.23C14.892 4.915 11.642 3 8 3zM8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/>
+            </svg>
+            <style>
+              /* Tùy chỉnh style cho nút */
+              .show-password-btn {
+                  padding: 5px 10px;
+                  cursor: pointer;
+              }
+          </style>
+    <script>
+      function togglePassword() {
+          var passwordField = document.getElementById("password");
+          var type = passwordField.getAttribute("type");
+          if (type === "password") {
+              passwordField.setAttribute("type", "text");
+          } else {
+              passwordField.setAttribute("type", "password");
+          }
+      }
+  </script>
+
+    <button  type="submit" class="nut-dang-nhap">Đăng nhập</button>
+</form>
+    <style>
+        .input-container {
+  position: relative;
+}
+
+.input-container svg {
+  position: absolute;
+  top: 35%;
+  left: 10px; /* Điều chỉnh giá trị left để điều chỉnh vị trí của biểu tượng */
+  transform: translateY(-50%);
+}
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+        form {
+            max-width: 300px;
+            margin: 0 auto;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+        input {
+            border-radius: 8px;
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+        }
+        .nut-dang-nhap {
+            background-color: #d92b2b;
+            color: white;
+            padding: 10px 115px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+         }
+    </style>
+</div>
+      <!-- <div class="rectangle-parent2">
+        <div class="group-child3"></div>
+        <div class="passwork">Passwork</div>
+        <img class="frame-icon" alt="" src="./public/frame.svg" />
+      </div>
+      <div class="rectangle-parent3">
+        <div class="group-child3"></div>
+        <div class="passwork">Fullname</div>
+        <img class="frame-icon" alt="" src="./public/frame1.svg" />
+      </div>
+      <div class="rectangle-parent4">
+        <div class="group-child5"></div>
+       
+        <b class="next1">NEXT</b>
+      </div> -->
+      <div class="group-parent3">
+        <div class="rectangle-parent5">
+          <div class="group-child6"></div>
+          <div class="login-with-google-parent">
+            <div class="login-with-google-container">
+              <span>Login with </span>
+              <b>google</b>
+            </div>
+            <img class="google-1-icon" alt="" src="./public/google-1@2x.png" />
+          </div>
+        </div>
+        <div class="rectangle-parent6">
+          <div class="group-child7"></div>
+          <div class="login-with-facebook-parent">
+            <div class="login-with-google-container">
+              <span>Login with </span>
+              <b>Facebook</b>
+            </div>
+            <img
+              class="google-1-icon"
+              alt=""
+              src="./public/facebook-1@2x.png"
+            />
+          </div>
+        </div>
+      </div>
+      <img class="vector-icon" alt="" src="./public/vector.svg" />
+
+      <img class="login-child" alt="" src="./public/arrow-1.svg" />
+
+      <img class="login-item" alt="" src="./public/arrow-2.svg" />
+
+      <img class="login-inner" alt="" src="./public/arrow-3.svg" />
+
+      <img class="arrow-icon" alt="" src="./public/arrow-4.svg" />
+    </div>
+  </body>
+</html>

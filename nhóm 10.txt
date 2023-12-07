@@ -1,0 +1,37 @@
+
+Thành viên nhóm 10:
+1.Lê Hữu Quân:21%
+2.Đinh Ngọc Cường:21%
+3.Phan Thị Hồng:21%
+4.Nguyễn Quốc Lộc:21%
+5.Lê Vĩnh Hùng:16%
+
+
+***Các bước cần thiết để deploy sản phẩm:
+1. Chuẩn bị Môi trường Triển khai:
+Lựa chọn Môi trường Triển khai: Chọn môi trường triển khai phù hợp, có thể là server đám mây như AWS, Azure, Google Cloud hoặc một máy chủ riêng.
+
+Cấu hình Môi trường Triển khai: Cài đặt hệ điều hành, triển khai cơ sở dữ liệu, cấu hình môi trường lập trình và các yêu cầu cần thiết khác.
+
+2. Triển khai Ứng dụng:
+Triển khai Code và Tài nguyên: Truy cập vào môi trường triển khai và triển khai mã nguồn, tài nguyên và cài đặt ứng dụng.
+
+Cài đặt và Cấu hình Ứng dụng: Cài đặt module kê đơn thuốc, cấu hình cơ sở dữ liệu, kết nối và đảm bảo rằng mọi thứ hoạt động như mong đợi.
+
+3. Kiểm tra và Xác minh:
+Kiểm tra và Đảm bảo tính đúng đắn: Thực hiện kiểm tra kỹ thuật và chức năng để đảm bảo rằng module hoạt động chính xác và không có lỗi.
+
+Xác minh Bảo mật và An toàn: Đảm bảo rằng ứng dụng có các biện pháp bảo mật thích hợp để bảo vệ thông tin và tránh các lỗ hổng bảo mật.
+
+4. Quản lý và Theo dõi:
+Quản lý Ứng dụng: Xác định các quy trình quản lý sau khi triển khai, bao gồm cách quản lý lỗi, cập nhật và khắc phục sự cố.
+
+Monitoring và Logging: Thiết lập hệ thống theo dõi để theo dõi hiệu suất, sự cố và lưu trữ các nhật ký để dễ dàng xác định vấn đề.
+
+5. Hỗ trợ và Bảo trì:
+Hỗ trợ và Hướng dẫn người dùng: Cung cấp hỗ trợ, tài liệu hướng dẫn và đào tạo cho người dùng sử dụng module.
+
+Bảo trì và Cập nhật: Lập kế hoạch và thực hiện các cập nhật, bảo trì định kỳ để duy trì hoạt động và hiệu suất tốt.
+
+6. Đảm bảo Tuân thủ:
+Tuân thủ Luật và Quy định: Đảm bảo rằng module tuân thủ các quy tắc, luật và quy định pháp lý liên quan đến y tế và bảo mật thông tin.

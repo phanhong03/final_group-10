@@ -1,0 +1,563 @@
+.anphuc {
+    position: absolute;
+    top: 2.5rem;
+    left: 9.13rem;
+    font-size: 2.5rem;
+    font-family: var(--font-abhaya-libre-semibold);
+    color: var(--color-cornflowerblue-100);
+    text-align: left;
+  }
+  .frame-icon {
+    position: absolute;
+    top: 2.94rem;
+    left: 6.38rem;
+    width: 1.94rem;
+    height: 1.94rem;
+    overflow: hidden;
+  }
+  .group-child3 {
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray-400);
+  }
+  .group-child3,
+  .rectangle-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2.53rem;
+    height: 2.53rem;
+  }
+  .icons8-twitter-1 {
+    position: absolute;
+    top: 0.61rem;
+    left: 0.57rem;
+    width: 1.38rem;
+    height: 1.38rem;
+    overflow: hidden;
+  }
+  .f-icon,
+  .group-parent3 {
+    position: absolute;
+    top: 194.58rem;
+    left: 15.43rem;
+    width: 2.53rem;
+    height: 2.53rem;
+  }
+  .f-icon {
+    top: 195.35rem;
+    left: 13.16rem;
+    width: 0.56rem;
+    height: 1.09rem;
+  }
+  .group-child4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray-400);
+    width: 2.56rem;
+    height: 2.56rem;
+  }
+  .in {
+    position: absolute;
+    top: 0.56rem;
+    left: 0.81rem;
+    background: linear-gradient(
+      180deg,
+      #6eace2,
+      #5a9ad2 99.98%,
+      rgba(16, 28, 38, 0.18) 99.99%,
+      transparent,
+      #1a72bf
+    );
+ 
+    -webkit-text-fill-color: transparent;
+  }
+  .rectangle-parent2 {
+    position: absolute;
+    top: 194.56rem;
+    left: 18.75rem;
+    width: 2.56rem;
+    height: 2.56rem;
+    text-align: left;
+    font-size: var(--font-size-lg);
+  }
+  .callmedicahealthcom,
+  .doctor,
+  .hospital-list,
+  .quick-chat,
+  .terms-of-use {
+    position: absolute;
+    top: 192rem;
+    left: 37.56rem;
+    font-size: var(--font-size-mini);
+    font-family: var(--font-abhaya-libre-semibold);
+    color: var(--color-black);
+    text-align: left;
+  }
+  .callmedicahealthcom,
+  .doctor,
+  .quick-chat,
+  .terms-of-use {
+    top: 194.5rem;
+  }
+  .callmedicahealthcom,
+  .quick-chat,
+  .terms-of-use {
+    top: 197rem;
+  }
+  .callmedicahealthcom,
+  .quick-chat {
+    top: 192rem;
+    left: 69.63rem;
+  }
+  .quick-chat {
+    left: 54rem;
+  }
+  .doctor1,
+  .hospital-list1,
+  .logout,
+  .prescription {
+    position: absolute;
+    top: 3.56rem;
+    left: 34.25rem;
+    font-size: var(--font-size-lg);
+    color: var(--color-gray-500);
+    text-align: left;
+  }
+  .doctor1,
+  .hospital-list1,
+  .logout {
+    top: 3.25rem;
+    left: 77.31rem;
+    color: var(--white);
+  }
+  .doctor1,
+  .hospital-list1 {
+    top: 3.19rem;
+    left: 48.63rem;
+    color: var(--color-gray-500);
+  }
+  .doctor1 {
+    left: 65.19rem;
+  }
+  .medica {
+    font-family: var(--font-aleo);
+    color: var(--color-gray-700);
+  }
+  .copy-right-2022-container {
+    position: absolute;
+    top: 203.38rem;
+    left: 12.19rem;
+    font-size: var(--font-size-3xs);
+    text-align: left;
+    color: var(--color-gray-300);
+    font-family: var(--font-abhaya-libre-semibold);
+  }
+  .sourav-aich {
+    font-family: var(--font-aleo);
+    color: var(--color-gray-600);
+  }
+  .design-by-sourav-container,
+  .get-start {
+    position: absolute;
+    font-family: var(--font-abhaya-libre-semibold);
+    text-align: left;
+  }
+  .design-by-sourav-container {
+    top: 203.5rem;
+    left: 69.63rem;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray-300);
+  }
+  .get-start {
+    top: 70.81rem;
+    left: 67.94rem;
+    font-size: 1.56rem;
+    color: var(--white);
+  }
+  .prescriptions-child {
+    position: absolute;
+    top: 21.45rem;
+    left: 1.64rem;
+    background-color: var(--white);
+    width: 88.14rem;
+    height: 11.88rem;
+    transform: rotate(-0.42deg);
+    transform-origin: 0 0;
+  }
+  .prescriptions-item {
+    position: absolute;
+    top: 7.31rem;
+    left: 0;
+    width: 200rem;
+    height: 25rem;
+    object-fit: cover;
+  }
+  .s {
+    margin: 100px;
+  }
+  .bc-s-phan-container {
+    position: absolute;
+    top: 23.56rem;
+    left: 3.13rem;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    white-space: pre-wrap;
+    text-align: left;
+    display: inline-block;
+    width: 82rem;
+    height: 7.25rem;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: var(--font-inter);
+  }
+  .s-1 {
+    margin: 0;
+    font-size: 2.81rem;
+    color: var(--color-black);
+  }
+  .n-thuc-s-container {
+    position: absolute;
+    top: 32.69rem;
+    left: 17.81rem;
+    display: inline-block;
+    width: 53.06rem;
+    height: 9.38rem;
+    font-size: 4.81rem;
+    color: var(--color-mediumslateblue);
+  }
+  .prescriptions-inner {
+    position: absolute;
+    top: 45.38rem;
+    left: 2.81rem;
+    background-color: var(--white);
+    width: 81.44rem;
+    height: 17.44rem;
+  }
+  .h-tn-kh {
+    position: absolute;
+    top: 48.44rem;
+    left: -2.62rem;
+    font-size: var(--font-size-17xl);
+    display: inline-block;
+    color: var(--color-gray-800);
+    width: 48.31rem;
+    height: 2.81rem;
+  }
+  .prescriptions-child1 {
+    position: absolute;
+    top: 53.06rem;
+    left: 49.06rem;
+    background-color: var(--white);
+    width: 40.94rem;
+    height: 5.88rem;
+  }
+  .gii-tnh-n {
+    position: absolute;
+    top: 47.88rem;
+    left: 46.13rem;
+    font-size: var(--font-size-17xl);
+    color: var(--color-gray-800);
+  }
+  .prescriptions-child2 {
+    position: absolute;
+    top: 57.13rem;
+    left: 1.69rem;
+    background-color: var(--white);
+    width: 82.56rem;
+    height: 2.56rem;
+  }
+  .m-bn {
+    position: absolute;
+    top: 52.44rem;
+    left: 4.63rem;
+    font-size: var(--font-size-17xl);
+    color: var(--color-gray-800);
+  }
+  .prescriptions-child3 {
+    position: absolute;
+    top: 57.13rem;
+    left: 33.5rem;
+    background-color: var(--white);
+    width: 28.63rem;
+    height: 3.94rem;
+  }
+  .ngy-k {
+    position: absolute;
+    top: 53.13rem;
+    left: 46.13rem;
+    font-size: var(--font-size-17xl);
+    color: var(--color-gray-800);
+  }
+  .prescriptions-child4 {
+    position: absolute;
+    top: 60.63rem;
+    left: 4.63rem;
+    background-color: var(--white);
+    width: 64.19rem;
+    height: 3.13rem;
+  }
+  .a-ch,
+  .chun-on {
+    position: absolute;
+    top: 60.19rem;
+    left: 4.63rem;
+    font-size: var(--font-size-17xl);
+    color: var(--color-gray-800);
+  }
+  .a-ch {
+    top: 56rem;
+    left: 3.19rem;
+    display: inline-block;
+    width: 57.81rem;
+  }
+  .prescriptions-child5 {
+    position: absolute;
+    top: 65.81rem;
+    left: 6.31rem;
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 79.63rem;
+    height: 3.63rem;
+  }
+  .b,
+  .b1 {
+    position: absolute;
+    top: 66.63rem;
+    left: 7.81rem;
+  }
+  .b1 {
+    left: 69rem;
+    color: var(--color-black);
+  }
+  .paracetamol {
+    position: absolute;
+    top: 66.25rem;
+    left: 15.19rem;
+  }
+  .line-div,
+  .prescriptions-child6 {
+    position: absolute;
+    top: 65.53rem;
+    left: 64.16rem;
+    border-right: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 0.06rem;
+    height: 3.94rem;
+  }
+  .prescriptions-child6 {
+    top: 65.97rem;
+    left: 73.78rem;
+    height: 3.5rem;
+  }
+  .vin {
+    position: absolute;
+    top: 66.56rem;
+    left: 79.69rem;
+  }
+  .prescriptions-child7 {
+    position: absolute;
+    top: 69.94rem;
+    left: 7.81rem;
+    background-color: var(--white);
+    width: 82.06rem;
+    height: 4.44rem;
+  }
+  .ngy-ung-2 {
+    position: absolute;
+    top: 69.94rem;
+    left: 15.19rem;
+    color: var(--color-gray-900);
+  }
+  .prescriptions-child8 {
+    position: absolute;
+    top: 72.94rem;
+    left: 6.31rem;
+    background-color: var(--white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 79.63rem;
+    height: 3.88rem;
+  }
+  .b2 {
+    position: absolute;
+    top: 73.75rem;
+    left: 69rem;
+    color: var(--color-black);
+  }
+  .amoxicillin,
+  .b3,
+  .vin1 {
+    position: absolute;
+    top: 73.69rem;
+    left: 79.69rem;
+  }
+  .amoxicillin,
+  .b3 {
+    left: 15.19rem;
+  }
+  .b3 {
+    left: 7.81rem;
+    color: var(--primary-black);
+  }
+  .prescriptions-child10,
+  .prescriptions-child9 {
+    position: absolute;
+    top: 72.91rem;
+    left: 64.16rem;
+    border-right: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 0.06rem;
+    height: 3.88rem;
+  }
+  .prescriptions-child10 {
+    top: 73.03rem;
+    left: 73.78rem;
+    height: 3.75rem;
+  }
+  .ngy-ung-1,
+  .ngy-ung-21 {
+    position: absolute;
+    top: 77.44rem;
+    left: 15.19rem;
+    color: var(--color-gray-900);
+  }
+  .ngy-ung-1 {
+    top: 86.25rem;
+  }
+  .prescriptions-child11 {
+    position: absolute;
+    top: 80.75rem;
+    left: 6.31rem;
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 79.63rem;
+    height: 3.88rem;
+  }
+  .line-icon,
+  .prescriptions-child12 {
+    position: absolute;
+    top: 73rem;
+    left: 11.72rem;
+    width: 0.06rem;
+    height: 3.81rem;
+  }
+  .prescriptions-child12 {
+    top: 65.69rem;
+    width: 0.09rem;
+    height: 3.75rem;
+  }
+  .prescriptions-child13,
+  .prescriptions-child14,
+  .prescriptions-child15 {
+    position: absolute;
+    top: 80.72rem;
+    left: 11.72rem;
+    border-right: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 0.06rem;
+    height: 3.94rem;
+  }
+  .prescriptions-child14,
+  .prescriptions-child15 {
+    left: 64.16rem;
+  }
+  .prescriptions-child15 {
+    left: 73.78rem;
+  }
+  .b4 {
+    position: absolute;
+    top: 81.5rem;
+    left: 7.25rem;
+  }
+  .b5,
+  .clorpheniramin,
+  .vin2 {
+    position: absolute;
+    top: 81.81rem;
+    left: 15.19rem;
+  }
+  .b5,
+  .vin2 {
+    top: 82.25rem;
+    left: 69rem;
+    color: var(--color-black);
+  }
+  .vin2 {
+    top: 81.81rem;
+    left: 79.69rem;
+  }
+  .prescriptions-child16 {
+    position: absolute;
+    top: 89.06rem;
+    left: 0;
+    width: 90rem;
+    height: 0.5rem;
+  }
+  .cng-khon {
+    position: absolute;
+    top: 91.5rem;
+    left: 11.81rem;
+    color: var(--color-black);
+  }
+  .nng-ngy-24-container {
+    position: absolute;
+    top: 95.75rem;
+    left: 51rem;
+    display: inline-block;
+    width: 33.94rem;
+    height: 7.38rem;
+  }
+  .bsphan-vn-hi {
+    position: absolute;
+    top: 114.56rem;
+    left: 58.94rem;
+    font-size: var(--font-size-17xl);
+  }
+  .li-dn-container,
+  .nu-c-bt-container {
+    position: absolute;
+    top: 95.88rem;
+    left: 5.94rem;
+    display: inline-block;
+    width: 29.44rem;
+    height: 4.69rem;
+  }
+  .nu-c-bt-container {
+    top: 113.81rem;
+    left: 4.63rem;
+    width: 43.25rem;
+    height: 2.13rem;
+  }
+  .khm-li-xin {
+    position: absolute;
+    top: 117.63rem;
+    left: 4.63rem;
+  }
+  .prescriptions-child17,
+  .prescriptions-child18 {
+    position: absolute;
+    left: 0;
+    background-color: var(--color-cornflowerblue-200);
+    width: 90rem;
+  }
+  .prescriptions-child17 {
+    top: 127rem;
+    height: 2.31rem;
+  }
+  .prescriptions-child18 {
+    top: 0;
+    height: 2.5rem;
+  }
+  .prescriptions {
+    position: relative;
+    background-color: var(--white);
+    width: 100%;
+    height: 125.63rem;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-13xl);
+    color: var(--color-gray-200);
+    font-family: var(--font-aleo);
+  }
+  

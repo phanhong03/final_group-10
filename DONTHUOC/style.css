@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    margin: 0 auto;
+    width: 700px;
+  }
+  
+  .container {
+    border: 3px solid black;
+    width: 700px;
+  }
+  
+  .header {
+    
+    padding: 10px;
+  }
+  
+  .body {
+    background-color: #fff;
+    padding: 10px;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  th {
+ 
+    text-align: center;
+  }
+  
+  td {
+    padding: 5px;
+  }
+  
+  .footer {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+  }
+  .advice{
+    margin-right: 618px;
+  }
+.doctor{
+  margin-left: 500px;
+}
+  
+  
